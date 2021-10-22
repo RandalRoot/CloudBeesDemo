@@ -19,9 +19,25 @@ Python is easy to download and install.  A quick internet search will provide yo
 
 *Note:* If you install both, make sure to use the correct version when running your scripts. You can check  version you are running using the -V switch from the command terminal of your computer (Figure 1).
 
-![Console Showing the version number after using the -V option](PythonBasics/images/Figure01.png)
-  
+![Console Showing the version number after using the -V option](./images/Figure01.png "Show Version with -V")
+
 Figure 1. Verifying Python's version
+
+
+## Installing on Windows
+To install Python, you must first download the installation program from  https.//www.python.org/downloads/ website (Figure 2). 
+
+![The Python Download page](./images/Figure02.png "The Python download page")
+Figure 2. Downloading Python's installation program
+
+Afterward, you run the .exe or .dmg file to start the installation, depending on your operating system. 
+For a Windows installation, I recommend you check the checkbox to include Python's executable in the OS path, then click the custom option to choose an easy-to-access location like C.\Python\Python3.x for its installation folder (Figure 3).
+
+![The Python Installation App](./images/Figure03.png "The Python Installation App") 
+Figure 3. Customizing the Python installation
+
+
+
 
 
 ## Summary
