@@ -2,7 +2,10 @@
 In this demo we will cover some basic information that will help you install and start programming in Python.
 
 ## What is Python
-Python is a simple yet powerful programing language. It is an easy language to learn but still powerful due to the extensive pre-made code modules you can freely download (code modules are files with code in them.) Python is free to use, even for commercial products! 
+Python is a simple yet powerful programing language. It is an easy language to learn but still powerful due to the extensive pre-made code modules you can freely download (code modules are files with code in them.) 
+
+Python is free to use, even for commercial products! 
+
 Here are some facts you need to know:
 •	Python runs on Windows, Linux/Unix, and Mac OS X 
 •	There are two main versions of Python 2.x and 3.x 
