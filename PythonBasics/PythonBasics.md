@@ -1,7 +1,5 @@
 
-![Python Icon](./images/Figure01.png "https://pngset.com/download-free-png-zncgp")
-
-
+<img src="./images/Figure01.png" style="float: left;" alt="PythonIcon"> <!-- From https://www.clipartmax.com/download/m2H7d3K9H7b1K9d3_python-logo/ -->
 # Python Basics
 In this demo we will cover some basic information that will help you install and start programming in Python.
 
@@ -77,6 +75,8 @@ print("You enter", first_name, last_name)
 In this demonstration you saw how Python can be use with the interactive mode. In the next section, look at how to create a Python script.
 
 <hr/>
+
+
 
 ## Summary
 In this demo we covered how to install and start programming in Python.
