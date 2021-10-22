@@ -60,7 +60,6 @@ If you are using a Mac, it is almost the same, but now the Command Prompt is cal
 Figure 6. A Mac Command prompt
 
 ## Demonstration
-<hr/>
 In this demonstration your instructor will walkthrough the process of installing and using Python on a Windows computer. Your are encourged to follow along if you would like.
 
 This demo consists of the following steps:
@@ -76,7 +75,9 @@ last_name = input("Enter your last name")
 print("You enter", first_name, last_name)
 
 ```
+In this demonstration you saw how Python can be use with the interactive mode. In the next section, look at how to create a Python script.
 
+<hr/>
 
 ## Summary
 In this demo we covered how to install and start programming in Python.
