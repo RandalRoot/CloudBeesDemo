@@ -1,7 +1,8 @@
 
-<img src="./images/Figure01.png" style="float: left;" alt="PythonIcon"> <!-- From https://www.clipartmax.com/download/m2H7d3K9H7b1K9d3_python-logo/ -->
-# Python Basics
-In this demo we will cover some basic information that will help you install and start programming in Python.
+<img src="./images/Figure01.png" style="float: left; margin: 0 0 0 10" alt="Python Icon" width=10% height=10% /> <!-- From https://www.clipartmax.com/download/m2H7d3K9H7b1K9d3_python-logo/ -->
+# Python Basics 
+
+In this demo we will cover the basic information on installing, running, and programming with Python. By the end of this demonstration you will know how Python can be installed and used on your Mac or Windows computer.
 
 ## What is Python
 Python is a simple yet powerful programing language. It is an easy language to learn but still powerful due to the extensive pre-made code modules you can freely download (code modules are files with code in them.) 
@@ -21,10 +22,7 @@ Python is easy to download and install.  A quick internet search will provide yo
 
 
 ## Installing Python
-To install Python, you must first download the installation program from  https.//www.python.org/downloads/ website (Figure 2). 
-
-<!-- Switching to HTML tag for better control
-![The Python Download page](./images/Figure02.png "The Python download page"  width="30%" height="30%") -->
+To install Python, you must first download the installation program from Python.org website. Figure 2, shows an example of what the site's download page looks like. Clicking the "Download Python" button should start downloading the software automatically.
 
 <img src="./images/Figure02.png" alt="The Python Download page" width="80%" height="80%" /> 
 Figure 2. Downloading Python's installation program
