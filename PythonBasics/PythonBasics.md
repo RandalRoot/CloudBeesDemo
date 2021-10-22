@@ -43,10 +43,16 @@ The Mac installer has fewer options than the Windows version and more text to re
 <img src="./images/Figure04.png" alt="The Python Installation app on Mac" width="80%" height="80%" /> 
 Figure 3. The Python installation on Mac OS
 
-##Running Python
+**_Important:_** Restarting your Mac may be required and is recommend after the installation.
+
+## Running Python
+You can start programming in pyton
 
 
 
 
 ## Summary
 In this demo we covered how to install and start programming in Python.
+
+**Slides:** [Google Slides](https://docs.google.com/presentation/d/10KeZQ35RM3d9cDY5KNjvyz2z844UNtCt5Nl7brti-VQ/edit#slide=id.gf9ff0db80e_0_45)
+
