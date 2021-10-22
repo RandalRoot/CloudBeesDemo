@@ -46,9 +46,36 @@ Figure 3. The Python installation on Mac OS
 **_Important:_** Restarting your Mac may be required and is recommend after the installation.
 
 ## Running Python
-You can start programming in pyton
+Once you have installed Python, you can run it interactively using a Console/Terminal or by creating scripts with a text editor. Both options have their place, and I recommend you always test your programs using both. 
 
+### The Console/Terminal Interface
+To open a command console in Windows, use the Start button or Windows key + r keyboard combination to open the Run dialog, then type in the command "CMD" into "Open" the textbox. Clicking the Command Prompt App option opens a command prompt window. With the Command Prompt open, type Python.exe to begin an interactive session (Figure 5).
+ 
+<img src="./images/Figure05.png" alt="Starting Python's interactive mode on Windows" width="80%" height="80%" /> 
+Figure 5. The Run dialog window
 
+If you are using a Mac, it is almost the same, but now the Command Prompt is called a "Terminal" window. Open a Terminal window using Finder > Applications > Utilities > Terminal.app. You can access the Python's interactive mode by typing in the "Python3" command in the Terminal window (Figure 6).
+ 
+<img src="./images/Figure06.png" alt="Starting Python's interactive mode on Mac OS" width="100%" height="100%" /> 
+Figure 6. A Mac Command prompt
+
+## Demonstration
+<hr/>
+In this demonstration your instructor will walkthrough the process of installing and using Python on a Windows computer. Your are encourged to follow along if you would like.
+
+This demo consists of the following steps:
+
+1. Download the Python installer from Python.Org.
+2. Run the installation program.
+3. Open a command prompt and start Python in interactive mode.
+4. Use the following common commands, one at a time, to show how the interactive mode works.
+
+```python
+first_name = input("Enter your first name")
+last_name = input("Enter your last name")
+print("You enter", first_name, last_name)
+
+```
 
 
 ## Summary
