@@ -19,7 +19,7 @@ Python is easy to download and install.  A quick internet search will provide yo
 
 *Note:* If you install both, make sure to use the correct version when running your scripts. You can check  version you are running using the -V switch from the command terminal of your computer (Figure 1).
 
-![Console Showing the version number after using the -V option](/images/Figure01.png)
+![Console Showing the version number after using the -V option](PythonBasics/images/Figure01.png)
   
 Figure 1. Verifying Python's version
 
