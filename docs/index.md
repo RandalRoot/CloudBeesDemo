@@ -17,7 +17,7 @@ Here are some facts to know:
 -	Python 3.x is recommended for all new projects
 
 ## Installing Python
-Python is easy to download and install.  A quick internet search will provide you with a download link and several installation videos based on your chosen OS. https.//www.google.com/search?q=How+to+install+python (external site). This page is context-sensitive and should recognize your OS then provide the appropriate download option.
+Python is easy to download and install.  A quick internet search will provide you with a download link and several installation videos based on your chosen OS. [https.//www.google.com/search?q=How+to+install+python](https.//www.google.com/search?q=How+to+install+python) (external site). This page is context-sensitive and should recognize your OS then provide the appropriate download option.
 
 
 ## Installing Python
