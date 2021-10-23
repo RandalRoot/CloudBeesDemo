@@ -65,7 +65,7 @@ Figure 6. A Mac Command prompt
 
 **Note:** Remember, the macOS includes Python 2.x, so make sure you remember to use the correct version when you are running your code. On Mac, typing "python3" should connect you to your Python 3.x installation, while typing "python" will connect you to the Python 2.x installation. You can verify the version you are running using the -V switch from the command terminal of your computer (Figure 7). 
   
- <img src="./images/Figure07.png" alt="Testing Pythons version with -V" width="100%" height="100%" />
+ <img src="./images/Figure07.png" alt="Testing Pythons version with -V" width="60%" height="60%" />
  
  Figure 7. Running multiple versions of Python on the Mac OS.
 
