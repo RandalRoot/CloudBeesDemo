@@ -3,7 +3,7 @@
 
 In this demo we will cover the basic information on installing, running, and programming with Python. By the end of this demonstration you will know how Python can be installed and used on your Mac or Windows computer.
 
-## What is Python
+## What is Python?
 Python is a simple yet powerful programing language. It is an easy language to learn but still powerful due to the extensive pre-made code modules you can freely download (code modules are files with code in them.) 
 
 Here are some facts to know:
@@ -16,19 +16,19 @@ Here are some facts to know:
 -	Python 2.x has been deprecated as of January 2020
 -	Python 3.x is recommended for all new projects
 
-## Installing Python
-Python is easy to download and install.  A quick internet search will provide you with a download link and several installation videos based on your chosen OS. [https.//www.google.com/search?q=How+to+install+python](https.//www.google.com/search?q=How+to+install+python) (external site). This page is context-sensitive and should recognize your OS then provide the appropriate download option.
-
+What is a Python module?
 
 ## Installing Python
-To install Python, you must first download the installation program from Python.org website. Figure 2, shows an example of what the site's download page looks like. Clicking the "Download Python" button should start downloading the software automatically.
+Python is easy to download and install.  A quick internet search will provide you with a download link and several installation videos based on your chosen OS. [https.//www.google.com/search?q=How+to+install+python](https.//www.google.com/search?q=How+to+install+python) (external site). 
+
+To start installing Python, you must first download the installation program from Python.org website. Figure 2, shows an example of what the site's download page looks like. Clicking the "Download Python" button should start downloading the software automatically. This page is context-sensitive, so it should recognize your OS and then provide the appropriate download option.
 
 <img src="./images/Figure02.png" alt="The Python Download page" width="80%" height="80%" />
 
 Figure 2. Downloading Python's installation program
 
 
-Afterward, you run the .exe or .dmg file to start the installation, depending on your operating system. 
+Afterward, you run the .exe or .pak file to start the installation, depending on your operating system. 
 For a Windows installation, I recommend you check the checkbox to include Python's executable in the OS path, then click the custom option to choose an easy-to-access location like C.\Python\Python3.x for its installation folder (Figure 3).
 
 <img src="./images/Figure03.png" alt="The Python Installation app on Windows" width="80%" height="80%" /> 
