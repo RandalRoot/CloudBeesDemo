@@ -25,7 +25,7 @@ You must first download the installation program from  https.//www.python.org/do
  
 Figure 2. Downloading Python's installation program
 
-<img src="./images/Figure02.png" alt="The Python Download page" width="80%" height="80%" />
+<img src="./images/Figure02.png" alt="The Python Download page" width="50%" height="50%" />
 
 Figure 2. Downloading Python's installation program
 
