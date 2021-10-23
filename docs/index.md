@@ -1,5 +1,5 @@
 
-# Python Basics <img src="./images/Figure01.png" style="float: right; margin: 0 0 0 10" alt="Python Icon" width=10% height=10% /> <!-- From https://www.clipartmax.com/download/m2H7d3K9H7b1K9d3_python-logo/ -->
+# Python Basics   <img src="./images/Figure01.png" style="float: right; margin: 0 0 0 10" alt="Python Icon" width=10% height=10% /> <!-- From https://www.clipartmax.com/download/m2H7d3K9H7b1K9d3_python-logo/ -->
 
 In this demo we will cover the basic information on installing, running, and programming with Python. By the end of this demonstration you will know how Python can be installed and used on your Mac or Windows computer.
 
@@ -27,17 +27,21 @@ To install Python, you must first download the installation program from Python.
 
 Figure 2. Downloading Python's installation program
 
+
 Afterward, you run the .exe or .dmg file to start the installation, depending on your operating system. 
 For a Windows installation, I recommend you check the checkbox to include Python's executable in the OS path, then click the custom option to choose an easy-to-access location like C.\Python\Python3.x for its installation folder (Figure 3).
 
 <img src="./images/Figure03.png" alt="The Python Installation app on Windows" width="80%" height="80%" /> 
+
 Figure 3. Customizing the Python installation
+
 
 The Mac installer has fewer options than the Windows version and more text to read, but selecting the default options is fine.
 
 <img src="./images/Figure04.png" alt="The Python Installation app on Mac" width="80%" height="80%" />
 
 Figure 3. The Python installation on Mac OS
+
 
 **_Important:_** Restarting your Mac may be required and is recommend after the installation.
 
@@ -51,11 +55,13 @@ To open a command console in Windows, use the Start button or Windows key + r ke
 
 Figure 5. The Run dialog window
 
+
 If you are using a Mac, it is almost the same, but now the Command Prompt is called a "Terminal" window. Open a Terminal window using Finder > Applications > Utilities > Terminal.app. You can access the Python's interactive mode by typing in the "Python3" command in the Terminal window (Figure 6).
  
 <img src="./images/Figure06.png" alt="Starting Python's interactive mode on Mac OS" width="100%" height="100%" />
 
 Figure 6. A Mac Command prompt
+
 
 ## Demonstration
 In this demonstration your instructor will walkthrough the process of installing and using Python on a Windows computer. Your are encourged to follow along if you would like.
