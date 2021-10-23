@@ -9,4 +9,4 @@ This repository is for my CloudBees demo.
 
 **Documents:** [PythonBasics Markdown](/docs/index.md)
 
-**Code Files:** [PythonBasics Files](/docs/codefiles)
+**Code Files:** [PythonBasics Files](/codefiles)
