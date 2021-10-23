@@ -40,7 +40,7 @@ The Mac installer has fewer options than the Windows version and more text to re
 
 <img src="./images/Figure04.png" alt="The Python Installation app on Mac" width="80%" height="80%" />
 
-Figure 3. The Python installation on Mac OS
+Figure 4. The Python installation on Mac OS
 
 
 **_Important:_** Restarting your Mac may be required and is recommend after the installation.
