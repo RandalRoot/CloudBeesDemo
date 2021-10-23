@@ -25,7 +25,7 @@ You must first download the installation program from  https.//www.python.org/do
  
 Figure 2. Downloading Python's installation program
 
-<img src="./images/Figure02.png" alt="The Python Download page" width="50%" height="50%" />
+<img src="./images/Figure02.png" alt="The Python Download page" width="80%" height="80%" />
 
 Figure 2. Downloading Python's installation program
 
@@ -89,7 +89,7 @@ Figure 8. Steps to open the Python's IDLE Application
 
 Whether you use the interactive console/terminal or the windowed editor option, the code you enter is sent to the Python interpreter for processing (figure 9. This interpreter application is what we refer to when we say your code runs on Python. 
 
-<img src="./images/Figure09.png" alt="Pythons apps work with the Python Interpreter" width="100%" height="100%" />
+<img src="./images/Figure09.png" alt="Pythons apps work with the Python Interpreter" width="50%" height="50%" />
  
 Figure 9. The Python interpreter
 
