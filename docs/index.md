@@ -1,12 +1,12 @@
 
 # Python Basics   <img src="./images/Figure01.png" alt="Python Icon" width="10%" height="10%" /> 
 
-In this demo we will cover the basic information on installing, running, and programming with Python. By the end of this demonstration you will know how Python can be installed and used on your Mac or Windows computer.
+In this demo we will cover the basics of installing, running, and programming with Python. By the end of this demonstration you will know how Python can be installed and used on your Mac or Windows computer.
 
 ## What is Python?
-Python is a simple yet powerful programing language. It is an easy language to learn but still powerful due to the extensive pre-made code modules you can freely download (code modules are files with code in them.) 
+Python is a simple yet powerful programing language. It is an easy language to learn but still powerful due to the extensive pre-made code modules you can download freely (code modules are files with code in them.) 
 
-Here are some facts to know:
+Here are some good facts to know about Python:
 
 -	Python is free to use, even for commercial products! 
 - Python runs on Windows, Linux/Unix, and Mac OS X 
