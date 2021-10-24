@@ -45,7 +45,7 @@ Figure 4. The Python installation on Mac OS
 **_Important:_** Restarting your Mac may be required and is recommend after the installation.
 
 ## Demonstration
-In this demonstration your instructor will walkthrough the process of installing Python on a Windows computer. Your are encourged to follow along if you would like.
+In this demonstration your instructor will walkthrough the process of installing Python on a Windows computer. Your are encourged to follow along if you would like. Though this demo will be on Windows, you can follow on a Mac, but remember that you may have to restart your computer and log back into the session.
 
 This demo consists of the following steps:
 
@@ -57,7 +57,7 @@ In this demonstration you saw how Python on a Windows computer. Next we will loo
 <hr/>
 
 ## Running Python
-Once you have installed Python, you can run it interactively using a Console/Terminal or by creating scripts with a text editor. Both options have their place, and I recommend you always test your programs using both. 
+Once you have installed Python, you can run it interactively using a Console/Terminal or by creating scripts with a code editor. Both options have their place, and I recommend you always test your programs using both. 
 
 ### The Console/Terminal Interface
 To open a command console in Windows 10, click the Start button then type in the command "CMD" into "Open" the textbox. Clicking the Command Prompt App option opens a command prompt window. With the Command Prompt open, type Python.exe to begin an interactive session (Figure 5).
@@ -81,15 +81,15 @@ Figure 6. A Mac Command prompt
  Figure 7. Running multiple versions of Python on the Mac OS.
 
 
-### The Windowed Editor
-You can create and run Python code files (Scripts) using its built-in editor called IDLE. IDLE is simple to use software, and you can find several resources on how to use it via an internet search; https://www.google.com/search?q=How+to+use+Python+idle (external site)
-On Windows, the necessary steps are:
+### The IDLE Code Editor
+You can create and run Python code files (Scripts) using its built-in code editor called IDLE. Code editors are like text editors, but they include the ability to run as well as edit the code you type. IDLE is simple to use, but you can find our more about its features via an internet search; https://www.google.com/search?q=How+to+use+Python+idle (external site).
 
+To use IDLE on Windows:
 1.	Click the Start menu icon.
 2.	Type "idle" to search for the application.
 3.	Launch IDLE from the link presented.
 
-On macOS, the necessary steps are:
+To use IDLE macOS:
 1.	Click on Finder
 2.	Type in "idle.app" to search for the application.
 3.	Launch IDLE from the file presented.
@@ -98,14 +98,7 @@ On macOS, the necessary steps are:
 
 Figure 8. Steps to open the Python's IDLE Application
 
-
-Whether you use the interactive console/terminal or the windowed editor option, the code you enter is sent to the Python interpreter for processing (figure 9. This interpreter application is what we refer to when we say your code runs on Python. 
-
-<img src="./images/Figure09.png" alt="Pythons apps work with the Python Interpreter" width="50%" height="50%" />
- 
-Figure 9. The Python interpreter
-
-
+Once IDLE opens you can use it in the interative mode as you to from a console/terminal window, or create script files using the File > New File menu item on both Windows and macOS.
 
 ## Demonstration
 In this demonstration your instructor will walkthrough the process of using Python's Interactive console/terminal application and IDLE. Your are encourged to follow along if you would like. Though, I will be using Windows, the process is very simular on macOS.
@@ -133,6 +126,14 @@ In this demonstration you saw how Python can be use with the interactive mode. I
 <hr/>
 
 
+## The Python interpreter
+Whether you use the interactive console/terminal or the windowed editor option, the code you enter is sent to the Python interpreter for processing (figure 9. This interpreter application is what we refer to when we say your code runs on Python. 
+
+<img src="./images/Figure09.png" alt="Pythons apps work with the Python Interpreter" width="50%" height="50%" />
+ 
+Figure 9. The Python interpreter
+
+
 ## Summary
-In this demo we covered how to install and start programming in Python. While we only covered the very basics, I have more material I am willing to share if you are interested. Here is my contact info on [Google Slides](https://docs.google.com/presentation/d/10KeZQ35RM3d9cDY5KNjvyz2z844UNtCt5Nl7brti-VQ/edit#slide=id.p).
+In this demo we covered how to install and start programming in Python. While we only covered the very basics, there is more material I can share if you are interested. My contact info on this [Google Slides](https://docs.google.com/presentation/d/10KeZQ35RM3d9cDY5KNjvyz2z844UNtCt5Nl7brti-VQ/edit#slide=id.p).
 
