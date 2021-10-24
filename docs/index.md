@@ -108,7 +108,7 @@ This demo consists of the following steps:
 ```python
 first_name = input("Enter your first name")
 last_name = input("Enter your last name")
-print("You enter", first_name, last_name)
+print("You entered:", first_name, last_name)
 
 ```
 In this demonstration you saw how Python can be use with the interactive mode. In the next section, look at how to create a Python script.
