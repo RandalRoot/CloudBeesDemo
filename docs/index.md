@@ -16,12 +16,11 @@ Here are some good facts to know about Python:
 -	Python 2.x has been deprecated as of January 2020
 -	Python 3.x is recommended for all new projects
 
-What is a Python module?
 
 ## Installing Python
-Python is easy to download and install. A quick internet search will provide you with a download link and several installation videos based on your chosen OS. https.//www.google.com/search?q=How+to+install+python (external site). 
+Python is easy to download and install. A quick internet search will provide you with a download link and several installation videos based on your chosen OS. https://www.google.com/search?q=How+to+install+python (external site). 
 
-You must first download the installation program from  https.//www.python.org/downloads/ website (Figure 2). This page is context-sensitive, so it should recognize your OS and then provide the appropriate download option. Afterward, you run the Windows .exe or the macOS .pkg file to begin installing. 
+You must first download the installation program from  https://www.python.org/downloads/ website (Figure 2). This page is context-sensitive, so it should recognize your OS and then provide the appropriate download option. Afterward, you run the Windows .exe or the macOS .pkg file to begin installing. 
  
 Figure 2. Downloading Python's installation program
 
@@ -45,11 +44,23 @@ Figure 4. The Python installation on Mac OS
 
 **_Important:_** Restarting your Mac may be required and is recommend after the installation.
 
+## Demonstration
+In this demonstration your instructor will walkthrough the process of installing Python on a Windows computer. Your are encourged to follow along if you would like.
+
+This demo consists of the following steps:
+
+1. Download the Python installer from Python.Org.
+2. Run the installation program.
+
+In this demonstration you saw how Python on a Windows computer. Next we will look at how to use your installation.
+
+<hr/>
+
 ## Running Python
 Once you have installed Python, you can run it interactively using a Console/Terminal or by creating scripts with a text editor. Both options have their place, and I recommend you always test your programs using both. 
 
 ### The Console/Terminal Interface
-To open a command console in Windows, use the Start button or Windows key + r keyboard combination to open the Run dialog, then type in the command "CMD" into "Open" the textbox. Clicking the Command Prompt App option opens a command prompt window. With the Command Prompt open, type Python.exe to begin an interactive session (Figure 5).
+To open a command console in Windows 10, click the Start button then type in the command "CMD" into "Open" the textbox. Clicking the Command Prompt App option opens a command prompt window. With the Command Prompt open, type Python.exe to begin an interactive session (Figure 5).
 
 <img src="./images/Figure05.png" alt="Starting Python's interactive mode on Windows" width="80%" height="80%" />
 
@@ -71,12 +82,13 @@ Figure 6. A Mac Command prompt
 
 
 ### The Windowed Editor
-You can create and run Python code files (Scripts) using its built-in editor called IDLE. IDLE is simple to use software, and you can find several resources on how to use it via an internet search; https.//www.google.com/search?q=How+to+use+Python+idle (external site)
+You can create and run Python code files (Scripts) using its built-in editor called IDLE. IDLE is simple to use software, and you can find several resources on how to use it via an internet search; https://www.google.com/search?q=How+to+use+Python+idle (external site)
 On Windows, the necessary steps are:
 
 1.	Click the Start menu icon.
 2.	Type "idle" to search for the application.
 3.	Launch IDLE from the link presented.
+
 On macOS, the necessary steps are:
 1.	Click on Finder
 2.	Type in "idle.app" to search for the application.
@@ -96,14 +108,12 @@ Figure 9. The Python interpreter
 
 
 ## Demonstration
-In this demonstration your instructor will walkthrough the process of installing and using Python on a Windows computer. Your are encourged to follow along if you would like.
+In this demonstration your instructor will walkthrough the process of using Python's Interactive console/terminal application and IDLE. Your are encourged to follow along if you would like. Though, I will be using Windows, the process is very simular on macOS.
 
 This demo consists of the following steps:
 
-1. Download the Python installer from Python.Org.
-2. Run the installation program.
-3. Open a command prompt and start Python in interactive mode.
-4. Use the following common commands, one at a time, to show how the interactive mode works.
+1. Open a command prompt and start Python in interactive mode.
+2. Use the following common commands, one at a time, to show how the interactive mode works.
 
 ```python
 first_name = input("Enter your first name")
@@ -111,7 +121,8 @@ last_name = input("Enter your last name")
 print("You entered:", first_name, last_name)
 
 ```
-5. Download the Python code file [demo01.py](../codefiles/demo01.py "download to open file in IDLE") and open it in IDLE: 
+5. Download the Python code file [demo01.py](../codefiles/demo01.py "download to open file in IDLE") and open it in IDLE:
+ 
    1. Click on the provide link to access the file's GitHub page.
    2. Right-Click the "Raw" button and choose the "Save link as..." option to download the file.
      <img src="./images/Figure10.png" alt="The RAW button context menu" width="50%" height="50%" />
