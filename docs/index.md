@@ -111,16 +111,15 @@ last_name = input("Enter your last name")
 print("You entered:", first_name, last_name)
 
 ```
-5. Donwload the following Python code file and open it in IDLE: [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
+5. Download the Python code file [demo01.py](../codefiles/demo01.py "download to open file in IDLE") and open it in IDLE: 
+  a. Click on the provide link to access the file's GitHub page.
+  b. Right-Click the "Raw" button and choose the "Save link as..." menu option to download the file.
 
 In this demonstration you saw how Python can be use with the interactive mode. In the next section, look at how to create a Python script.
 
 <hr/>
 
 
-
 ## Summary
-In this demo we covered how to install and start programming in Python.
-
-**Slides:** [Google Slides](https://docs.google.com/presentation/d/10KeZQ35RM3d9cDY5KNjvyz2z844UNtCt5Nl7brti-VQ/edit#slide=id.p)
+In this demo we covered how to install and start programming in Python. While we only covered the very basics, I have more material I am willing to share if you are interested. Here is my contact info on [Google Slides](https://docs.google.com/presentation/d/10KeZQ35RM3d9cDY5KNjvyz2z844UNtCt5Nl7brti-VQ/edit#slide=id.p).
 
