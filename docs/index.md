@@ -111,7 +111,7 @@ last_name = input("Enter your last name")
 print("You entered:", first_name, last_name)
 
 ```
-5. Donwload the following Python code file and open it in IDLE: [demo01.py](./codefiles/demo01.py "download to open file in IDLE")
+5. Donwload the following Python code file and open it in IDLE: [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
 
 In this demonstration you saw how Python can be use with the interactive mode. In the next section, look at how to create a Python script.
 
