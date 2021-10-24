@@ -1,5 +1,5 @@
 
-# Python Basics   <img src="./images/Figure01.png" style="float: right; margin: 0 0 0 10" alt="Python Icon" width=10% height=10% /> <!-- From https://www.clipartmax.com/download/m2H7d3K9H7b1K9d3_python-logo/ -->
+# Python Basics   <img src="./images/Figure01.png" alt="Python Icon" width=10% height=10% /> <!-- From https://www.clipartmax.com/download/m2H7d3K9H7b1K9d3_python-logo/ -->
 
 In this demo we will cover the basic information on installing, running, and programming with Python. By the end of this demonstration you will know how Python can be installed and used on your Mac or Windows computer.
 
