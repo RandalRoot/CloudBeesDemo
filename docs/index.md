@@ -112,8 +112,9 @@ print("You entered:", first_name, last_name)
 
 ```
 5. Download the Python code file [demo01.py](../codefiles/demo01.py "download to open file in IDLE") and open it in IDLE: 
-  a. Click on the provide link to access the file's GitHub page.
-  b. Right-Click the "Raw" button and choose the "Save link as..." menu option to download the file.
+   1. Click on the provide link to access the file's GitHub page.
+   2. Right-Click the "Raw" button and choose the "Save link as..." menu option to download the file.
+   <img src="./images/Figure10.png" alt="The RAW button context menu" width="40%" height="40%" />
 
 In this demonstration you saw how Python can be use with the interactive mode. In the next section, look at how to create a Python script.
 
