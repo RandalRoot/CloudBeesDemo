@@ -98,7 +98,7 @@ To use IDLE macOS:
 
 Figure 8. Steps to open the Python's IDLE Application
 
-Once IDLE opens you can use it in the interative mode as you to from a console/terminal window, or create script files using the <span style="color: Orange;"> File > New File </span> menu item on both Windows and macOS.
+Once IDLE opens you can use it in the interative mode as you to from a console/terminal window, or create script files using the **_"File" > "New File"_** menu item on both Windows and macOS.
 
 ## Demonstration
 In this demonstration your instructor will walkthrough the process of using Python's Interactive console/terminal application and IDLE. Your are encourged to follow along if you would like. Though, I will be using Windows, the process is very simular on macOS.
