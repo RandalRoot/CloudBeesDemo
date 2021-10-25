@@ -159,7 +159,7 @@ In this demonstration, we will walk through the process of using Python's IDLE c
 
 This demo consists of the following steps:
 
-1. Open IDLE and use it's Interactive Mode.
+Interactive Mode
  1. Open **IDLE**.
  2. Note that IDLE starts in **interactive mode**.
  3. Use the following common commands, one at a time, to show how the interactive mode works.
@@ -170,7 +170,7 @@ This demo consists of the following steps:
  print("You entered:", first_name, last_name)
 
  ```
-2. Use IDLE's Script Editing Mode.
+Creating Scripts
  1. Select **File > New File**.
  2. Type, or copy and paste, code into the **text area**.
  3. Select **Run > Run Module**.
@@ -178,7 +178,7 @@ This demo consists of the following steps:
  5. Save file as **_test.py**.
  6. Note that the results are displayed in the **interactive window**.
 
-3. Use IDLE with Python Files
+File Editing
  1. Download the Python code file [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
  2. Click the **Raw** button (figure 9)
 
@@ -189,14 +189,14 @@ This demo consists of the following steps:
  
  3. Download the file to your Downloads folder:
 
-    On Chrome and Firefox (figure 10):    
+    **Chrome** and **Firefox** (figure 10):    
      1. Right-Click the displayed textpage and use the "Save As..." or "Save Page as" menu option to save the file.
    
       <img src="./images/Figure10.png" alt="Saving a code file from GitHub with Chrome" width="70%" height="70%" />
 
      _Figure 10. Saving the code file using the Chrome browser_
    
-   On Safari (figure 11):
+   **Safari** (figure 11):
     1. Right-Click and use **Save As...**.
     2. Retype the name as **_demo01.py_**.
     3. Set the Format as **Page Source**. 
