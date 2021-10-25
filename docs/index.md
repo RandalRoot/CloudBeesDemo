@@ -198,8 +198,8 @@ File Editing
    3. Set the Format as **Page Source**.
    4. Click the **Save** button.
    5. Click the **Don't append** button to avoid having the **.txt** extension added.
-   6. Use **_File > Open_** menu item in IDLE to locate and open the file. 
-
+   6. Use **_File > Open_** menu item in IDLE to locate and open the file.
+   
    <img src="./images/Figure11.png" alt="Saving a code file from GitHub with Safari" width="80%" height="80%" />
    
    _Figure 11. Saving the code file using the Safari browser_
