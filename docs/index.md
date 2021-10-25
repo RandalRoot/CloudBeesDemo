@@ -4,7 +4,7 @@
 In this demo we will cover the basics of installing, running, and programming with Python. By the end of this demonstration you will know how Python can be installed and used on your Mac or Windows computer.
 
 
-<img src="./images/Figure01.png" alt="Python Website" width="10%" height="10%" /> 
+<img src="./images/Figure01.png" alt="Python Website" width="80%" height="80%" /> 
 _Figure 1. Python.org Website_
 
 ## What is Python?
