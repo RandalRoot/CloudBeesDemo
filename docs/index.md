@@ -140,7 +140,7 @@ print("You entered:", first_name, last_name)
     4. Click the Save button.
     5. Click the "Don't append" button to avoid having the ".txt" extension added.
 
-    <img src="./images/Figure11.png" alt="Saving a code file from GitHub with Safari" width="50%" height="50%" />
+    <img src="./images/Figure11.png" alt="Saving a code file from GitHub with Safari" width="80%" height="80%" />
    
     Figure 12. Saving the code file using the Safari browser
     
