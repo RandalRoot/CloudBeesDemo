@@ -128,6 +128,7 @@ This demo consists of the following steps:
  print("You entered:", first_name, last_name)
 
  ```
+ **Note:** You can cope the Python code here [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
  
  In this demonstration, we learned how to use Python's Interactive console/terminal application. Next, we will learn about Python's built-in code editor.
  
@@ -170,6 +171,8 @@ Interactive Mode
  print("You entered:", first_name, last_name)
 
  ``` 
+ **Note:** You can cope the Python code here [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
+ 
 Creating Scripts
  1. Select **File > New File**.
  2. Type, or copy and paste, code into the **text area**.
@@ -178,8 +181,6 @@ Creating Scripts
  5. Save file as **_test.py**.
  6. Note that the results are displayed in the **interactive window**.
 
-Note: You can cope the Python code here [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
- 
 In this demonstration, you saw how to use Python's code editor IDLE. Many editors are available for working with Python, but this is the one that comes with a Python installation.
 
 <hr/>
