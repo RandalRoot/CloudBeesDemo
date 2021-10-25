@@ -186,21 +186,23 @@ File Editing
 
   <img src="./images/Figure09.png" alt="The RAW button on GitHubs file page" width="100%" height="100%" />
   Figure 9. The Github file Raw button
+  
  
-   **Chrome** and **Firefox** (figure 10):    
-    1. Right-Click and use **Save As...** or **Save Page as**.
+   **Chrome** and **Firefox** (figure 10):  
+   1. Right-Click and use **Save As...** or **Save Page as**.
    
    <img src="./images/Figure10.png" alt="Saving a code file from GitHub with Chrome" width="70%" height="70%" />
 
    _Figure 10. Saving the code file using the Chrome browser_
    
+   
    **Safari** (figure 11):
-    1. Right-Click and use **Save As...**.
-    2. Retype the name as **_demo01.py_**.
-    Set the Format as **Page Source**.
-    Click the **Save** button.
-    Click the **Don't append** button to avoid having the **.txt** extension added.
-    Use **_File > Open_** menu item in IDLE to locate and open the file.
+   1. Right-Click and use **Save As...**.
+   2. Retype the name as **_demo01.py_**.
+   3. Set the Format as **Page Source**.
+   4. Click the **Save** button.
+   5. Click the **Don't append** button to avoid having the **.txt** extension added.
+   6. Use **_File > Open_** menu item in IDLE to locate and open the file.
    
    <img src="./images/Figure11.png" alt="Saving a code file from GitHub with Safari" width="80%" height="80%" />
    
