@@ -121,6 +121,8 @@ print("You entered:", first_name, last_name)
    2. Click the "Raw" button (figure 9)
      <img src="./images/Figure09.png" alt="The RAW button on GitHubs file page" width="50%" height="50%" />
    
+   Figure 9. The Github file Raw button
+   
    3. Download the file to your Downloads folder:
 
    On Chrome and Firefox (figure 10):    
@@ -128,21 +130,32 @@ print("You entered:", first_name, last_name)
    
     <img src="./images/Figure10.png" alt="Saving a code file from GitHub with Chrome" width="50%" height="50%" />
    
-     
+    Figure 10. Saving the code file using the Chrome browser
+   
    On macOS Safari (figure 11):
     1. Right-Click the displayed textpage and use the "Save As..." menu option.
     2. Retype the name as demo01.py.
     3. Set the Format as "Page Source."  
     4. Click the Save button.
-    5. Click the "Don't append" button to avoid having the ".txt" extension added. 
-   <img src="./images/Figure11.png" alt="Saving a code file from GitHub with Safari" width="50%" height="50%" />
-   
-    
- 4. After the code file has been downloaded, use the **_File > Open_** menu item in IDLE to locate and open it in the editor (figure 10).
+    5. Click the "Don't append" button to avoid having the ".txt" extension added.
 
-<img src="./images/Figure12.png" alt="Pythons apps work with the Python Interpreter" width="50%" height="50%" />
+    <img src="./images/Figure11.png" alt="Saving a code file from GitHub with Safari" width="50%" height="50%" />
+   
+    Figure 12. Saving the code file using the Safari browser
+    
+ 4. After the code file has been downloaded, use the **_File > Open_** menu item in IDLE to locate and open it in the editor.
+
+  IDLE on Windows (figure 12)
+
+  <img src="./images/Figure12.png" alt="Opening a code file using IDLE on Windows" width="50%" height="50%" />
  
-Figure 12. The Python interpreter
+  Figure 12. Opening a code file using IDLE on Windows
+ 
+  IDLE on macOS (figure 13)
+
+  <img src="./images/Figure13.png" alt="Opening a code file using IDLE on macOS" width="50%" height="50%" />
+ 
+  Figure 13. Opening a code file using IDLE on macOS
  
  
 In this demonstration, you saw how to use Python's interactive mode and its code editor IDLE. Many editors are available for working with Python, but these are the two that come with the Python installation.
@@ -153,9 +166,9 @@ In this demonstration, you saw how to use Python's interactive mode and its code
 ## The Python interpreter
 Whether you use the interactive console/terminal or the windowed editor option, the code you enter is sent to the Python interpreter for processing (figure 9. This interpreter application is what we refer to when we say your code runs on Python. 
  
-<img src="./images/Figure12.png" alt="Pythons apps work with the Python Interpreter" width="50%" height="50%" />
+<img src="./images/Figure14.png" alt="Pythons apps work with the Python Interpreter" width="50%" height="50%" />
  
-Figure 12. The Python interpreter
+Figure 14. The Python interpreter
 
 
 ## Summary
