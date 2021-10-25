@@ -1,7 +1,11 @@
 
-# Python Basics   <img src="./images/Figure01.png" alt="Python Icon" width="10%" height="10%" /> 
+# Python Basics  
 
 In this demo we will cover the basics of installing, running, and programming with Python. By the end of this demonstration you will know how Python can be installed and used on your Mac or Windows computer.
+
+
+<img src="./images/Figure01.png" alt="Python Website" width="10%" height="10%" /> 
+_Figure 1. Python.org Website_
 
 ## What is Python?
 Python is a simple yet powerful programing language. It is an easy language to learn but still powerful due to the extensive pre-made code modules you can download freely (code modules are files with code in them.) 
@@ -18,28 +22,38 @@ Here are some good facts to know about Python:
 
 
 ## Installing Python
-Python is easy to download and install. A quick internet search will provide you with a download link and several installation videos based on your chosen OS. https://www.google.com/search?q=How+to+install+python (external site). 
+Python is easy to download and install. A quick internet search will provide you with a download link and several installation videos based on your chosen OS. [https://www.google.com/search?q=How+to+install+python](https://www.google.com/search?q=How+to+install+python) (external site). 
 
-You must first download the installation program from the https://www.python.org/downloads/ website (Figure 2). This page is context-sensitive, so it should recognize your OS and then provide the appropriate download option. Afterward, you run the Windows .exe or the macOS .pkg file to begin installing. 
+You must first download the installation program from the [https://www.python.org/downloads/](https://www.python.org/downloads/) website (Figure 2). This page is context-sensitive, so it should recognize your OS and then provide the appropriate download option. Afterward, you run the Windows .exe or the macOS .pkg file to begin installing. 
  
-Figure 2. Downloading Python's installation program
+ Steps: 
+ 1. Navigate to [**Python.Org**](https://www.python.org/downloads/)
+ 2. Click **Download** Python's Installer.
+ 3. Run the **Exe** or **pkg** file.
 
 <img src="./images/Figure02.png" alt="The Python Download page" width="80%" height="80%" />
 
-Figure 2. Downloading Python's installation program
+_Figure 2. Downloading Python's installation program_
 
-For a Windows installation, I recommend you check the checkbox to include Python's executable in the OS path, then click the custom option to choose an easy-to-access location like C.\Python\Python3.x for its installation folder (Figure 3).
+For a Windows installation, I recommend you check the checkbox to include Python's executable in the OS path, then click the custom option to choose an easy-to-access location like **C.\Python\Python3.x** for its installation folder (Figure 3).
 
-<img src="./images/Figure03.png" alt="The Python Installation app on Windows" width="80%" height="80%" /> 
+ Steps:
+ 1. Click **Add Python to Path** checkbox.
+ 2. Click **Customize Installation**.
+ 3. Click **Next** to advance dialog.
+ 4. Configure **Customize install location** textboxt.
+ 5. Click **Install**
 
-Figure 3. Customizing the Python installation
+<img src="./images/Figure03.png" alt="The Python Installation app on Windows" width="100%" height="100%" /> 
+
+_Figure 3. Customizing the Python installation_
 
 
 The Mac installer has fewer options than the Windows version and more text to read, but selecting the default options is fine (Figure 4).
 
-<img src="./images/Figure04.png" alt="The Python Installation app on Mac" width="80%" height="80%" />
+<img src="./images/Figure04.png" alt="The Python Installation app on Mac" width="100%" height="100%" />
 
-Figure 4. The Python installation on Mac OS
+_Figure 4. The Python installation on Mac OS_
 
 
 **_Important:_** Restarting your Mac is recommend after the installation and may be required on some computers.
@@ -47,10 +61,10 @@ Figure 4. The Python installation on Mac OS
 ## Demonstration
 In this demonstration, we will walk through the process of installing Python on a Windows computer. You are encouraged to follow along if you would like. Though this demo will be on Windows, you can follow on a Mac, but remember that you may have to restart your computer and log back into the session.
 
-This demo consists of the following steps:
+ This demo consists of the following steps:
 
-1. Download the Python installer from Python.Org.
-2. Run the installation program.
+ 1. Download the Python installer from Python.Org.
+ 2. Run the installation program.
 
 In this demonstration, you saw how to install Python on a Windows computer. Next, we will look at how to use your installation.
 
@@ -64,21 +78,21 @@ To open a command console in Windows 10, click the Start button, then type in th
 
 <img src="./images/Figure05.png" alt="Starting Python's interactive mode on Windows" width="80%" height="80%" />
 
-Figure 5. The Run dialog window
+_Figure 5. The Run dialog window_
 
 
 It is almost the same if you use a Mac, but now the Command Prompt is called a "Terminal" window. Open a Terminal window using Finder > Applications > Utilities > Terminal.app. You can access Python's interactive mode by typing in the "Python3" command in the Terminal window (Figure 6).
  
 <img src="./images/Figure06.png" alt="Starting Python's interactive mode on Mac OS" width="100%" height="100%" />
 
-Figure 6. A Mac Command prompt
+_Figure 6. A Mac Command prompt_
 
 
 **Note:** Remember, the macOS includes Python 2.x, so remember to use the correct version when running your code. On Mac, typing "python3" should connect you to your Python 3.x installation, while typing "python" will connect you to the Python 2.x installation. You can verify the version you are running using the -V switch from the command terminal of your computer (Figure 7). 
   
  <img src="./images/Figure07.png" alt="Testing Pythons version with -V" width="60%" height="60%" />
  
- Figure 7. Running multiple versions of Python on the Mac OS.
+_Figure 7. Running multiple versions of Python on the Mac OS_
 
 
 ### The IDLE Code Editor
@@ -96,7 +110,7 @@ To use IDLE macOS:
 
 <img src="./images/Figure08.png" alt="Starting Python's Windowed Editor IDLE" width="100%" height="100%" />
 
-Figure 8. Steps to open the Python's IDLE Application
+_Figure 8. Steps to open the Python's IDLE Application_
 
 
 Once IDLE opens, you can use its interactive mode as you do from a console/terminal window or create script files using the **_"File" > "New File"_** menu item.
@@ -119,7 +133,7 @@ print("You entered:", first_name, last_name)
  
    1. Click on the provide link to access the file's GitHub page.
    2. Click the "Raw" button (figure 9)
-   3. 
+
      <img src="./images/Figure09.png" alt="The RAW button on GitHubs file page" width="100%" height="100%" />
    
    Figure 9. The Github file Raw button
@@ -131,7 +145,7 @@ print("You entered:", first_name, last_name)
    
      <img src="./images/Figure10.png" alt="Saving a code file from GitHub with Chrome" width="70%" height="70%" />
    
-    Figure 10. Saving the code file using the Chrome browser
+    _Figure 10. Saving the code file using the Chrome browser_
    
    On macOS Safari (figure 11):
     1. Right-Click the displayed textpage and use the "Save As..." menu option.
@@ -142,7 +156,7 @@ print("You entered:", first_name, last_name)
 
     <img src="./images/Figure11.png" alt="Saving a code file from GitHub with Safari" width="80%" height="80%" />
    
-    Figure 12. Saving the code file using the Safari browser
+    _Figure 11. Saving the code file using the Safari browser_
     
  4. After the code file has been downloaded, use the **_File > Open_** menu item in IDLE to locate and open it in the editor.
 
@@ -150,13 +164,13 @@ print("You entered:", first_name, last_name)
 
   <img src="./images/Figure12.png" alt="Opening a code file using IDLE on Windows" width="80%" height="80%" />
  
-  Figure 12. Opening a code file using IDLE on Windows
+  _Figure 12. Opening a code file using IDLE on Windows_
  
   IDLE on macOS (figure 13)
 
   <img src="./images/Figure13.png" alt="Opening a code file using IDLE on macOS" width="80%" height="80%" />
  
-  Figure 13. Opening a code file using IDLE on macOS
+  _Figure 13. Opening a code file using IDLE on macOS_
  
  
 In this demonstration, you saw how to use Python's interactive mode and its code editor IDLE. Many editors are available for working with Python, but these are the two that come with the Python installation.
@@ -169,7 +183,7 @@ Whether you use the interactive console/terminal or the windowed editor option, 
  
 <img src="./images/Figure14.png" alt="Pythons apps work with the Python Interpreter" width="70%" height="70%" />
  
-Figure 14. The Python interpreter
+_Figure 14. The Python interpreter_
 
 
 ## Summary
