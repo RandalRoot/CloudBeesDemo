@@ -142,7 +142,7 @@ You can create and run Python code files (Scripts) using its built-in code edito
 
 _Figure 8. The Python's IDLE Application_
 
-IDLE is not sophisticated and has limited features, but it is good enough when first learning Python.  You can find out more about its features via an internet search; [https://www.google.com/search?q=How+to+use+Python+idle](https://www.google.com/search?q=How+to+use+Python+idle) (external site).
+IDLE has limited features, but it is good enough when first learning Python.  You can find out more about its features via an internet search; [https://www.google.com/search?q=How+to+use+Python+idle](https://www.google.com/search?q=How+to+use+Python+idle) (external site).
 
 To start using IDLE you must first start it. The steps are only slightly different between Mac and Windows (figure 9).
 
