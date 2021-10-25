@@ -4,7 +4,8 @@
 In this demo we will cover the basics of installing, running, and programming with Python. By the end of this demonstration you will know how Python can be installed and used on your Mac or Windows computer.
 
 
-<img src="./images/Figure01.png" alt="Python Website" width="80%" height="80%" /> 
+<img src="./images/Figure01.png" alt="Python Website" width="100%" height="100%" />
+
 _Figure 1. Python.org Website_
 
 ## What is Python?
@@ -31,7 +32,7 @@ You must first download the installation program from the [https://www.python.or
  2. Click **Download** Python's Installer.
  3. Run the **Exe** or **pkg** file.
 
-<img src="./images/Figure02.png" alt="The Python Download page" width="80%" height="80%" />
+<img src="./images/Figure02.png" alt="The Python Download page" width="100%" height="100%" />
 
 _Figure 2. Downloading Python's installation program_
 
@@ -51,6 +52,13 @@ _Figure 3. Customizing the Python installation_
 
 The Mac installer has fewer options than the Windows version and more text to read, but selecting the default options is fine (Figure 4).
 
+ Steps:
+ 1. Read the introduction page then Click **Continue**
+ 2. Read the Read Me page then Click **Continue**
+ 3. Read the License page then Click **Continue**
+ 4. Click **Agree** to continue the installation
+ 5. Read the Installation Type page then Click **Install**
+
 <img src="./images/Figure04.png" alt="The Python Installation app on Mac" width="100%" height="100%" />
 
 _Figure 4. The Python installation on Mac OS_
@@ -69,6 +77,7 @@ In this demonstration, we will walk through the process of installing Python on 
 In this demonstration, you saw how to install Python on a Windows computer. Next, we will look at how to use your installation.
 
 <hr/>
+
 
 ## Running Python
 Once you have installed Python, you can run Python code interactively using a Console/Terminal or by creating a script with a code editor. Both options have their place, and I recommend you always test your programs using both. 
