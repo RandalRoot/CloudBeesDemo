@@ -118,10 +118,33 @@ print("You entered:", first_name, last_name)
 5. Download the Python code file [demo01.py](../codefiles/demo01.py "download to open file in IDLE") and open it in IDLE:
  
    1. Click on the provide link to access the file's GitHub page.
-   2. Right-Click the "Raw" button and choose the "Save link as..." option to download the file.
-     <img src="./images/Figure10.png" alt="The RAW button context menu" width="50%" height="50%" />
-   3. <ADD Instructions for using IDLE>
+   2. Click the "Raw" button (figure 9)
+     <img src="./images/Figure09.png" alt="The RAW button on GitHubs file page" width="50%" height="50%" />
+   
+   3. Download the file to your Downloads folder:
 
+   On Chrome and Firefox (figure 10):    
+    1. Right-Click the displayed textpage and use the "Save As..." or "Save Page as" menu option to save the file.
+   
+    <img src="./images/Figure10.png" alt="Saving a code file from GitHub with Chrome" width="50%" height="50%" />
+   
+     
+   On macOS Safari (figure 11):
+    1. Right-Click the displayed textpage and use the "Save As..." menu option.
+    2. Retype the name as demo01.py.
+    3. Set the Format as "Page Source."  
+    4. Click the Save button.
+    5. Click the "Don't append" button to avoid having the ".txt" extension added. 
+   <img src="./images/Figure11.png" alt="Saving a code file from GitHub with Safari" width="50%" height="50%" />
+   
+    
+ 4. After the code file has been downloaded, use the **_File > Open_** menu item in IDLE to locate and open it in the editor (figure 10).
+
+<img src="./images/Figure12.png" alt="Pythons apps work with the Python Interpreter" width="50%" height="50%" />
+ 
+Figure 12. The Python interpreter
+ 
+ 
 In this demonstration, you saw how to use Python's interactive mode and its code editor IDLE. Many editors are available for working with Python, but these are the two that come with the Python installation.
 
 <hr/>
@@ -130,9 +153,9 @@ In this demonstration, you saw how to use Python's interactive mode and its code
 ## The Python interpreter
 Whether you use the interactive console/terminal or the windowed editor option, the code you enter is sent to the Python interpreter for processing (figure 9. This interpreter application is what we refer to when we say your code runs on Python. 
  
-<img src="./images/Figure09.png" alt="Pythons apps work with the Python Interpreter" width="50%" height="50%" />
+<img src="./images/Figure12.png" alt="Pythons apps work with the Python Interpreter" width="50%" height="50%" />
  
-Figure 9. The Python interpreter
+Figure 12. The Python interpreter
 
 
 ## Summary
