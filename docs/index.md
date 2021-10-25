@@ -50,14 +50,14 @@ For a Windows installation, I recommend you check the checkbox to include Python
 _Figure 3. Customizing the Python installation_
 
 
-The Mac installer has fewer options than the Windows version and more text to read, but selecting the default options is fine. At the inend of the installation your newly installed files will appear in Finder (Figure 4).
+The Mac installer has fewer options than the Windows version and more text to read, but selecting the default options is fine. Your newly installed files will appear in Finder (Figure 4).
 
  _Steps:_
-  1. Read the introduction page then select **Continue**
-  2. Read the Read Me page then select **Continue**
-  3. Read the License page then select **Continue**
+  1. Read the introduction page, then select **Continue**
+  2. Read the Read Me page, then select **Continue**
+  3. Read the License page, then select **Continue**
   4. Select **Agree** to continue the installation
-  5. Read the Installation Type page then select **Install**
+  5. Read the Installation Type page, then select **Install**
   6. Close **Finder** after it appears
 
 <img src="./images/Figure04.png" alt="The Python Installation app on Mac" width="100%" height="100%" />
@@ -65,7 +65,7 @@ The Mac installer has fewer options than the Windows version and more text to re
 _Figure 4. The Python installation on Mac OS_
 
 
-**_Important:_** Restarting your Mac is recommend after the installation and may be required on some computers.
+**_Important:_** Restarting your Mac is recommended after the installation and may be required on some computers.
 
 ## Demonstration
 In this demonstration, we will walk through the process of installing Python on a Windows computer. You are encouraged to follow along if you would like. Though this demo will be on Windows, you can follow on a Mac, but remember that you may have to restart your computer and log back into the session.
@@ -81,7 +81,7 @@ In this demonstration, you saw how to install Python on a Windows computer. Next
 
 
 ## Running Python
-Once you have installed Python, you can run Python code interactively using a Console/Terminal or by creating a script with its code editor IDLE. Both options have their place, and I recommend you use both. 
+Once you have installed Python, you can run Python code interactively using a Console/Terminal or create a script with its code editor IDLE. Both options have their place, and I recommend you use both. 
 
 ### The Console/Terminal Interface
 To open a command console in Windows 10, click the Start button, then type in the command **__CMD__** into **Open** the textbox. Clicking the Command Prompt App option opens a command prompt window. With the Command Prompt open, type Python.exe to begin an interactive session (Figure 5).
@@ -128,7 +128,7 @@ This demo consists of the following steps:
  print("You entered:", first_name, last_name)
 
  ```
- **Note:** You can cope the Python code here [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
+ **Note:** You can copy the Python code here [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
  
  In this demonstration, we learned how to use Python's Interactive console/terminal application. Next, we will learn about Python's built-in code editor.
  
@@ -136,7 +136,7 @@ This demo consists of the following steps:
  
 
 ### The IDLE Code Editor
-You can create and run Python code files (Scripts) using its built-in code editor called IDLE. Code editors are like text editors, but they also allow you to run and sometimes debugging your code. IDLE is not that sophisticated and has limited features, but it is simple to use and good enough to use when your are first learning Python. You can find out more about its features via an internet search; [https://www.google.com/search?q=How+to+use+Python+idle](https://www.google.com/search?q=How+to+use+Python+idle) (external site).
+You can create and run Python code files (Scripts) using its built-in code editor called IDLE. Code editors are like text editors, but they also allow you to run your code. IDLE is not sophisticated and has limited features, but it is good enough when first learning Python. You can find out more about its features via an internet search; [https://www.google.com/search?q=How+to+use+Python+idle](https://www.google.com/search?q=How+to+use+Python+idle) (external site).
 
 _Steps for Windows:_
  1.	Click the **Start** menu icon.
@@ -171,7 +171,7 @@ Interactive Mode
  print("You entered:", first_name, last_name)
 
  ``` 
- **Note:** You can cope the Python code here [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
+ **Note:** You can copy the Python code here [demo01.py](../codefiles/demo01.py "download to open file in IDLE")
  
 Creating Scripts
  1. Select **File > New File**.
@@ -195,5 +195,5 @@ _Figure 14. The Python interpreter_
 
 
 ## Summary
-In this demo, we covered how to install and start programming in Python. While we only covered the very basics, there is more material I can share if you are interested. My contact info is on the [Google Slides](https://docs.google.com/presentation/d/10KeZQ35RM3d9cDY5KNjvyz2z844UNtCt5Nl7brti-VQ/edit#slide=id.p) presentation.
+In this session, learned how to install and start programming in Python. While we only covered the basics, I have more share if you are interested. My contact info is on the [Google Slides](https://docs.google.com/presentation/d/10KeZQ35RM3d9cDY5KNjvyz2z844UNtCt5Nl7brti-VQ/edit#slide=id.p) presentation.
 
