@@ -189,7 +189,7 @@ In this demonstration, you saw how to use Python's code editor IDLE. Many editor
 ## The Python interpreter
 Whether you use the interactive console/terminal or the windowed editor option, the code you enter is sent to the Python interpreter for processing (figure 9). This interpreter application is what we refer to when we say your code runs on Python. 
  
-<img src="./images/Figure09.png" alt="Pythons apps work with the Python Interpreter" width="70%" height="70%" />
+<img src="./images/Figure09a.png" alt="Pythons apps work with the Python Interpreter" width="70%" height="70%" />
  
 _Figure 9. The Python interpreter_
 
