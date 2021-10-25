@@ -197,10 +197,10 @@ File Editing
    **Safari** (figure 11):
     1. Right-Click and use **Save As...**.
     2. Retype the name as **_demo01.py_**.
-    3. Set the Format as **Page Source**.
-    4. Click the **Save** button.
-    5. Click the **Don't append** button to avoid having the **.txt** extension added.
-    6. Use **_File > Open_** menu item in IDLE to locate and open the file.
+    Set the Format as **Page Source**.
+    Click the **Save** button.
+    Click the **Don't append** button to avoid having the **.txt** extension added.
+    Use **_File > Open_** menu item in IDLE to locate and open the file.
    
    <img src="./images/Figure11.png" alt="Saving a code file from GitHub with Safari" width="80%" height="80%" />
    
