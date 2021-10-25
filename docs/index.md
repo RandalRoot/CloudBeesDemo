@@ -136,7 +136,15 @@ This demo consists of the following steps:
  
 
 ### The IDLE Code Editor
-You can create and run Python code files (Scripts) using its built-in code editor called IDLE. Code editors are like text editors, but they also allow you to run your code. IDLE is not sophisticated and has limited features, but it is good enough when first learning Python. You can find out more about its features via an internet search; [https://www.google.com/search?q=How+to+use+Python+idle](https://www.google.com/search?q=How+to+use+Python+idle) (external site).
+You can create and run Python code files (Scripts) using its built-in code editor called IDLE (figure 8). Code editors are like text editors, but they also allow you to run your code. 
+
+<img src="./images/Figure08.png" alt="Python's Editor IDLE" width="100%" height="100%" />
+
+_Figure 8. The Python's IDLE Application_
+
+IDLE is not sophisticated and has limited features, but it is good enough when first learning Python.  You can find out more about its features via an internet search; [https://www.google.com/search?q=How+to+use+Python+idle](https://www.google.com/search?q=How+to+use+Python+idle) (external site).
+
+To start using IDLE you must first start it. The steps are only slightly different between Mac and Windows (figure 9).
 
 _Steps for Windows:_
  1.	Click the **Start** menu icon.
@@ -148,9 +156,9 @@ _Steps for macOS:_
  2.	Type in **_idle.app_** to search for the application.
  3.	Launch **IDLE.app** when the is file found.
 
-<img src="./images/Figure08.png" alt="Starting Python's Windowed Editor IDLE" width="100%" height="100%" />
+<img src="./images/Figure09.png" alt="Starting Python's Windowed Editor IDLE" width="100%" height="100%" />
 
-_Figure 8. Steps to open the Python's IDLE Application_
+_Figure 9. Steps to open the Python's IDLE Application_
 
 
 Once IDLE opens, you can use its interactive mode as you do from a console/terminal window or create script files using the **_File > New File_** menu item.
@@ -187,11 +195,11 @@ In this demonstration, you saw how to use Python's code editor IDLE. Many editor
 
 
 ## The Python interpreter
-Whether you use the interactive console/terminal or the windowed editor option, the code you enter is sent to the Python interpreter for processing (figure 9). This interpreter application is what we refer to when we say your code runs on Python. 
+Whether you use the interactive console/terminal or the windowed editor option, the code you enter is sent to the Python interpreter for processing (figure 10). This interpreter application is what we refer to when we say your code runs on Python. 
  
-<img src="./images/Figure09.png" alt="Pythons apps work with the Python Interpreter" width="70%" height="70%" />
+<img src="./images/Figure10.png" alt="Pythons apps work with the Python Interpreter" width="70%" height="70%" />
  
-_Figure 9. The Python interpreter_
+_Figure 10. The Python interpreter_
 
 
 ## Summary
