@@ -1,11 +1,9 @@
-# CloudBeesDemo
-This repository is for my CloudBees demo.
+# Getting started with Python
+This repository is for my getting started with Python demo.
 
 # Contents
 
-**Website:** [CloudBees Demo Page](https://randalroot.github.io/CloudBeesDemo/)
-
-**Slides:** [Google Slides](https://docs.google.com/presentation/d/10KeZQ35RM3d9cDY5KNjvyz2z844UNtCt5Nl7brti-VQ/edit#slide=id.p)
+**Website:** [Demo Web Page](https://randalroot.github.io/CloudBeesDemo/)
 
 **Documents:** [PythonBasics Markdown](/docs/index.md)
 
