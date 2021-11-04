@@ -3,7 +3,7 @@ This repository is for my getting started with Python demo.
 
 # Contents
 
-**Website:** [Demo Web Page](https://randalroot.github.io/CloudBeesDemo/)
+**Website:** [Demo Web Page](https://randalroot.github.io/GettingStartedWithPythonDemo/)
 
 **Documents:** [PythonBasics Markdown](/docs/index.md)
 
